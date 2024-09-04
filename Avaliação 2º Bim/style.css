@@ -1,0 +1,23 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: rgb(9, 0, 17);
+    height: 80px;
+    width: auto;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+
+.titu {
+    color: aliceblue;
+}
+
+.subtitu {
+    color: aliceblue;
+    text-align: center;
+}
