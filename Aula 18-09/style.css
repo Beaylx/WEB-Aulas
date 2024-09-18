@@ -1,0 +1,59 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+.conteudo {
+    width: 100%;
+    height: 250px;
+    padding: 80px;
+    text-align: center;
+    border: 2px solid black;
+}
+
+#cont1 {
+    background-color: rgb(175, 150, 239);
+}
+
+#cont2 {
+    background-color: rgb(185, 101, 204);
+}
+
+#cont3 {
+    background-color: rgb(221, 95, 95);
+}
+
+.fundo1 {
+    background-image: url(caitlyn.jpg);
+
+}
+
+.fundo2 {
+    background-image: url(akali.png);
+}
+
+.fundo3 {
+    background-image: url(Samira.png);
+}
+
+.fundo1, .fundo2, .fundo3 {
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    height: 600px;
+    background-size: 100%;
+}
+
+h3 {
+    font-size: xx-large;
+    color: aliceblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p {
+    font-size: x-large;
+    color: aliceblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
